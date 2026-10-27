@@ -1,0 +1,2 @@
+Crossing close: 2099-08-07T15:00:00Z
+Temperature evidence is reviewed per physical logger row. Above-limit runs are not bridged by an at-limit reading.
