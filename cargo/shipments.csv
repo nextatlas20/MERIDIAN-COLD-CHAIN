@@ -1,0 +1,6 @@
+shipment_id,contents,destination,max_temp_c,review_order
+CX-401,Aurora insulin,North Clinic,8.0,3
+CX-402,Cedar vaccines,Island Hospital,5.0,1
+CX-403,Dune cultures,Harbor Laboratory,4.5,5
+CX-404,Ember reagents,West Infirmary,7.0,2
+CX-405,Fjord plasma,South Clinic,6.0,4
