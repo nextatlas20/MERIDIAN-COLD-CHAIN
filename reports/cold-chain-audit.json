@@ -1,0 +1,82 @@
+{
+  "crossing_close": "2099-08-07T15:00:00Z",
+  "summary": {
+    "shipments": 5,
+    "valid_readings": 22,
+    "above_limit_readings": 14,
+    "excursions": 9,
+    "escalated": 2
+  },
+  "shipments": [
+    {
+      "shipment_id": "CX-402",
+      "contents": "Cedar vaccines",
+      "destination": "Island Hospital",
+      "max_temp_c": "5.0",
+      "valid_readings": 5,
+      "above_limit_readings": 3,
+      "excursions": 2,
+      "longest_run": 2,
+      "longest_start": "2099-08-07T10:00:00Z",
+      "longest_end": "2099-08-07T11:00:00Z",
+      "longest_peak_c": "5.4",
+      "escalated": false
+    },
+    {
+      "shipment_id": "CX-404",
+      "contents": "Ember reagents",
+      "destination": "West Infirmary",
+      "max_temp_c": "7.0",
+      "valid_readings": 3,
+      "above_limit_readings": 2,
+      "excursions": 2,
+      "longest_run": 1,
+      "longest_start": "2099-08-07T09:00:00Z",
+      "longest_end": "2099-08-07T09:00:00Z",
+      "longest_peak_c": "7.2",
+      "escalated": false
+    },
+    {
+      "shipment_id": "CX-401",
+      "contents": "Aurora insulin",
+      "destination": "North Clinic",
+      "max_temp_c": "8.0",
+      "valid_readings": 6,
+      "above_limit_readings": 4,
+      "excursions": 2,
+      "longest_run": 2,
+      "longest_start": "2099-08-07T10:00:00Z",
+      "longest_end": "2099-08-07T11:00:00Z",
+      "longest_peak_c": "8.4",
+      "escalated": false
+    },
+    {
+      "shipment_id": "CX-405",
+      "contents": "Fjord plasma",
+      "destination": "South Clinic",
+      "max_temp_c": "6.0",
+      "valid_readings": 4,
+      "above_limit_readings": 2,
+      "excursions": 1,
+      "longest_run": 2,
+      "longest_start": "2099-08-07T10:00:00Z",
+      "longest_end": "2099-08-07T11:00:00Z",
+      "longest_peak_c": "6.5",
+      "escalated": true
+    },
+    {
+      "shipment_id": "CX-403",
+      "contents": "Dune cultures",
+      "destination": "Harbor Laboratory",
+      "max_temp_c": "4.5",
+      "valid_readings": 4,
+      "above_limit_readings": 3,
+      "excursions": 2,
+      "longest_run": 2,
+      "longest_start": "2099-08-07T09:00:00Z",
+      "longest_end": "2099-08-07T10:00:00Z",
+      "longest_peak_c": "5.3",
+      "escalated": true
+    }
+  ]
+}
